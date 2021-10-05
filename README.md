@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandan7739
-- 👀 I’m interested in full stack web development in django
+- 👀 I’m interested in full stack web development in django-python
 - 🌱 I’m currently learning competitive programming 
-- 💞️ I’m looking to collaborate on django based web development source
+- 💞️ I’m looking to collaborate on django-python based web development source
 - 📫 How to reach me email: chandan7739@gmail.com
 
 <!---
